@@ -51,12 +51,12 @@ Grafieken
 
 ## Bronnen
 
-[Pie Chart](https://bl.ocks.org/mbostock/3887235)
-[Grouped Bar Chart](https://bl.ocks.org/mbostock/3887051)
-[Normalized Stacked Bar Chart](https://bl.ocks.org/mbostock/3886394)
-[D3 API Reference](https://github.com/d3/d3/blob/master/API.md#time-formats-d3-time-format)
-[Slack CMD Information](https://cmdinformationdesign.slack.com/messages/C6X4TNPQA/)
-[CMD FE3 course-17-18](https://github.com/cmda-fe3/course-17-18/blob/master/class-1.md)
+* [Pie Chart](https://bl.ocks.org/mbostock/3887235)
+* [Grouped Bar Chart](https://bl.ocks.org/mbostock/3887051)
+* [Normalized Stacked Bar Chart](https://bl.ocks.org/mbostock/3886394)
+* [D3 API Reference](https://github.com/d3/d3/blob/master/API.md#time-formats-d3-time-format)
+* [Slack CMD Information](https://cmdinformationdesign.slack.com/messages/C6X4TNPQA/)
+* [CMD FE3 course-17-18](https://github.com/cmda-fe3/course-17-18/blob/master/class-1.md)
 
 ## License 
 
